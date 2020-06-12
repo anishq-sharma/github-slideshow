@@ -1,6 +1,6 @@
 ---
-layout: slide
-title: "Welcome to our second slide!"
----
-Your text
-Use the left arrow to go back!
+layout:now this is a part of a tble
+title:This is the baisc heading given by me
+----
+Hello whatnow ??
+Huh??
